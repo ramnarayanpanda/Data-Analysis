@@ -1,11 +1,9 @@
+<pre>
 This project contains black firday sales data from Walmart.
-<br>
-<br>
-<br>
-<br>
 
 
-Dataset description: 
+Dataset description:
+
 User_ID:	            User ID
 Product_ID:	            Product ID
 Gender:	                Sex of User
@@ -16,12 +14,9 @@ StayInCurrentCityYears:	Number of years stay in current city
 Marital_Status:	        Marital Status
 ProductCategory:	    Product Category (Masked)
 Purchase:	            Purchase Amount 
-<br>
-<br>
-<br>
-<br>
 
 
 
 Business Problem:
 The Management team at Walmart Inc. wants to analyze the customer purchase behavior (specifically, purchase amount) against the customer’s gender and the various other factors to help the business make better decisions. They want to understand if the spending habits differ between male and female customers: Do women spend more on Black Friday than men?
+</pre>
