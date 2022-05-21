@@ -1,6 +1,10 @@
 This project contains black firday sales data from Walmart.
+<br>
+<br>
+<br>
+<br>
 
-==================================================================
+
 Dataset description: 
 User_ID:	            User ID
 Product_ID:	            Product ID
@@ -11,8 +15,11 @@ City_Category:	        Category of the City (A,B,C)
 StayInCurrentCityYears:	Number of years stay in current city
 Marital_Status:	        Marital Status
 ProductCategory:	    Product Category (Masked)
-Purchase:	            Purchase Amount
-=====================================================================   
+Purchase:	            Purchase Amount 
+<br>
+<br>
+<br>
+<br>
 
 
 

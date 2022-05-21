@@ -1,5 +1,8 @@
 This file contains Aerofit data. 
-
+<br>
+<br>
+<br>
+<br>
 
 
 Dataset description: 
@@ -14,10 +17,10 @@ Income:	            Annual income (in $)
 Fitness:	        Self-rated fitness on a 1-to-5 scale, where 1 is the poor shape and 5 is the excellent shape.
 Miles:	            The average number of miles the customer expects to walk/run each week
 
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 Business Problem:
 Leveraging the customer data collected by Aerofit consisting of the Gender,Age, Income,Weekly Usages,
 Fitness,Marital Status and miles run on treadmill to identify characteristics which make the customer buy a
