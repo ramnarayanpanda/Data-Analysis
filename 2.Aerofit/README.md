@@ -1,6 +1,7 @@
 This file contains Aerofit data. 
 
-==========================================================
+
+
 Dataset description: 
 
 Product Purchased:	KP281, KP481, or KP781
@@ -14,19 +15,10 @@ Fitness:	        Self-rated fitness on a 1-to-5 scale, where 1 is the poor shape
 Miles:	            The average number of miles the customer expects to walk/run each week
 
 
-Product Portfolio:
-The KP281 is an entry-level treadmill that sells for $1,500.
-The KP481 is for mid-level runners that sell for $1,750.
-The KP781 treadmill is having advanced features that sell for $2,500. 
-==========================================================
 
 
 
-
-
-
-
-Task we are going to do:
+Business Problem:
 Leveraging the customer data collected by Aerofit consisting of the Gender,Age, Income,Weekly Usages,
 Fitness,Marital Status and miles run on treadmill to identify characteristics which make the customer buy a
 particular treadmill out of KP281,KP481 and KP781 in the increasing order of expenditures. Further providing
